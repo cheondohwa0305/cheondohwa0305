@@ -1,6 +1,7 @@
 # My official account
 ## ~~many accounts~~
-### [깃허브](https://github.com/cheondohwa0305)
+### [GitHub](https://github.com/cheondohwa0305)
+### [VALORANT](https://tracker.gg/valorant/profile/riot/%EB%B2%84%ED%8A%9C%EB%B2%84%EC%B5%9C%EA%B0%95S%EA%B8%89%EB%AF%B8%EC%86%8C%EB%85%80%20%EC%9C%A0%EC%A6%88%ED%95%98%EB%A6%AC%EC%BD%94%23%EC%8A%A4%ED%85%94%EB%9D%BC%EC%9D%B4%EB%B8%8C/overview]
 ## Hi there 👋
 <!--
 **cheondohwa0305/cheondohwa0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
